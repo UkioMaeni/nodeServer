@@ -5,7 +5,7 @@ import Post from "./Post.js";
 
 const PORT = 5000;
 
-const DB_URL = 'mongodb+srv://UkioMaeni:Shaco2kelo@cluster0.z15fh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
+const DB_URL = 'mongodb+srv://UkioMaeni:none@cluster0.z15fh.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';
 
 const app = express();
 
